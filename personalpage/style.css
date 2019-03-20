@@ -1,0 +1,82 @@
+body {
+    background-color: deepskyblue;
+    font-family: 'Bellefair', serif;
+margin: 0;  
+  }
+
+div.nav {
+    background-color: rgb(213, 250, 7);
+    overflow: hidden;
+    font-size: 30px
+}
+
+div.nav a:hover {
+        background-color: rgb(248, 4, 4);
+        color: black;
+    }
+  family img:both{ 
+      height: 100;
+      width: 100;
+    }
+  family img:devin{
+    height: 100;
+    width: 100;
+  }
+  
+  family img:saniya{
+    height: 100;
+    width: 100;
+  }
+
+  family img:lela{
+    height: 100;
+    width: 100;
+  }
+
+  family img:triple{
+    height: 100;
+    width: 100;
+  }
+    
+header, footer{
+    background: black;
+    color: red;
+}
+header{
+    padding-top: 50px;
+    position: relative;
+  }
+  header h1, header h2{
+    color #F1DB4B;
+  }
+  footer{
+    text-align: center;
+  }
+  .contact-info a{
+    padding: 10px
+    display inline-block;
+ div.p class= "AboutMe" {
+        justify-content: center; 
+    }
+    /* family pictures */
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0 4px;
+      }
+      .column {
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 4px;
+      }
+      .column img {
+        margin-top: 8px;
+        vertical-align: middle;
+      }
+      @media screen and (max-width: 800px) {
+        .column {
+          flex: 50%;
+          max-width: 50%;
+        }
+      }
+      

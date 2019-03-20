@@ -1,0 +1,21 @@
+h1{
+color: red;
+font-size: 24px;
+text-decoration: underline;
+}
+p{
+ color: #068D00;
+ font-size: 30px;
+ text-align: center;
+
+}
+
+background{
+    background-color: red;
+}
+
+p1{
+    color: blueviolet;
+    font-style: bold;
+    font-size: 30px
+}
