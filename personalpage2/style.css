@@ -33,7 +33,7 @@ background-color: deepskyblue;
   /* header/footer */
   header, footer{
     background: #000606;
-    color: #71B340;
+    color: rgb(1, 78, 245);
   }
   .profile-img{
   border-radius: 10%;
